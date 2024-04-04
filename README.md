@@ -1,1 +1,1 @@
-# spotifynowplay
+![Spotify Now Playing](https://nowplayi.ng/miniplayer.php?refreshToken=AQA7VKGJAlRZj5rrlT5aO0R0_LeOOF-56vR1cm6CPkwOYDDFWQT5N0RLfqqVoSIihBkYIhJ_OkOgWBXO0rGTZ6mfrDW9en5MjY5dWbbF_QPRkS5IGs-7oeV-KgZIz0CzI5o&showAlbum=true&showArtwork=true&showProgress=true&showPause=true&transparentBackground=false&hideOnPauseOrEmpty=false)
